@@ -8,7 +8,7 @@ flask run
 
 Once the server is running, start the frontend:
 ```
-cd src/goalstats
+cd src/frontend
 npm install
 npm run dev
 ```
